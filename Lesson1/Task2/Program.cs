@@ -23,5 +23,21 @@ int quotient = i1 / i2;
 Console.WriteLine(quotient);
 
 d1 = 6;
-double quotion2 = i1 / d1;
-Console.WriteLine(quotion2);
+double quotient2 = i1 / d1;
+Console.WriteLine(quotient2);
+
+
+double q1 = 1;
+double q2 = 1;
+double product4 = q1 * q2;
+Console.WriteLine(product4);
+
+int q3 = 1;
+int q4 = 1;
+double sum4 = q3 + q4;
+Console.WriteLine(sum4);
+
+double quotient3 = product4 / sum4;
+Console.WriteLine(quotient3);
+
+
